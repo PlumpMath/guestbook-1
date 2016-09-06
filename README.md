@@ -1,8 +1,16 @@
 # guestbook
 
-generated using Luminus version "2.9.10.94"
+The guestbook application that covers the following chapters:
 
-FIXME
+* 1: Getting Your Feet Wet
+* 3: Luminus Architecture
+* 4: Add ClojureScript
+* 5: Real-time Messaging with WebSockets
+
+from the "Web Development with Clojure" (2nd edition) book by Dmitri
+Sotnikov.
+
+The application is generated using Luminus version "2.9.10.94".
 
 ## Prerequisites
 
@@ -18,4 +26,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Dmitri Sotnikov.
